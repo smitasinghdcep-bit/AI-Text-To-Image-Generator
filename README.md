@@ -1,2 +1,11 @@
-# AI-Text-To-Image-Generator
-An AI text-to-image generator converts written prompts into images using deep learning models like GANs or diffusion. It analyzes text, understands objects and styles, and creates visuals step by step. It is widely used in design, marketing, and content creation for fast, customized image generation.
+# AI Text-to-Image Generator
+
+This project converts text into images using AI.
+
+## How to Run
+1. Install libraries
+2. Run python file
+
+## Technologies
+- Python
+- AI
