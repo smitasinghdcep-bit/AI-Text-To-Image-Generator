@@ -14,45 +14,40 @@ Users can enter any prompt, and the model generates a corresponding image.
 * Fast image generation
 
 
-
-## 🎨 Output
-
-
-
 ## ⚙️ Installation & Usage
 
 Follow these steps to run the project:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
+https://github.com/smitasinghdcep-bit/AI-Text-To-Image-Generator.git
 
 ### 2. Install required libraries
 
-```bash
+
 pip install -r requirements.txt
-```
+
 
 ### 3. Run the project
 
-```bash
 python main.py
-```
 
 ### 4. Enter your prompt
 
 After running the code, you will see:
 
-```
-Enter your prompt:
-```
+
+Enter your prompt: A mango
+
 
 Type your prompt and press Enter to generate the image.
 
----
+
+## 🎨 Output
+
+
+
+
 
 ## 🛠 Tech Stack
 
@@ -70,9 +65,7 @@ Type your prompt and press Enter to generate the image.
 ├── outputs/
 │   └── output.png
 └── README.md
-```
 
----
 
 ## ✨ Future Improvements
 
@@ -82,6 +75,4 @@ Type your prompt and press Enter to generate the image.
 
 ---
 
-## 👩‍💻 Author
 
-Your Name
