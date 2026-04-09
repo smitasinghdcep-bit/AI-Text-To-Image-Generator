@@ -45,8 +45,7 @@ Type your prompt and press Enter to generate the image.
 
 ## 🎨 Output
 
-
-
+<img width="512" height="512" alt="generated_image" src="https://github.com/user-attachments/assets/2b8121dd-8e19-4ed8-9fee-fa388a16fe34" />
 
 
 ## 🛠 Tech Stack
